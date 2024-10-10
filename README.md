@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Hussain 👋
 
-<!--
-**Halsehlawy/Halsehlawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about **cybersecurity** and **automation**. I love creating tools that make processes more efficient and secure, with a focus on **interconnectivity** and usability. My work is a blend of technical depth and clean, intuitive design.
 
-Here are some ideas to get you started:
+### What I'm working on:
+- Building projects that enhance security and simplify vulnerability management.
+- Designing user-friendly interfaces using **Figma**.
+- Developing cross-platform applications using **Electron** for a seamless experience across devices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I enjoy:
+- Tackling cybersecurity challenges 🛡️
+- Streamlining complex processes
+- Bridging ideas through tech to make solutions simpler and more effective.
